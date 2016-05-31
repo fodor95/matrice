@@ -1,0 +1,3 @@
+﻿  matrice.cpp
+c:\users\iwdes\documents\visual studio 2015\projects\matrice\matrice\matrice.cpp(34): warning C4101: 'sumatotala': unreferenced local variable
+  matrice.vcxproj -> C:\Users\iwdes\documents\visual studio 2015\Projects\matrice\Debug\matrice.exe
